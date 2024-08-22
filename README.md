@@ -74,11 +74,15 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 <button tabindex="0">Clique aqui</button>
 
-Texto alternativo
+
+📍Texto alternativo
 
 <img src="logo.png" alt="Logo da Empresa">
 
+
+
 ### CSS
+
 
 📍Contraste de cores:
  
