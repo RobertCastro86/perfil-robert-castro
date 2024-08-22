@@ -57,6 +57,19 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 ```html
 
+Estrutura semântica
+
+<main>
+  <header>
+    <h1>Título Principal</h1>
+  </header>
+  <section>
+    <h2>Seção</h2>
+    <p>Conteúdo da seção.</p>
+  </section>
+</main>
+
+
 Navegação por Teclado
 
 <button tabindex="0">Clique aqui</button>
@@ -64,6 +77,8 @@ Navegação por Teclado
 Texto alternativo
 
 <img src="logo.png" alt="Logo da Empresa">
+
+```CSS
 
 Contraste de cores CSS:
  
