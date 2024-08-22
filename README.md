@@ -39,7 +39,7 @@
 
 Este projeto segue as melhores práticas de acessibilidade para garantir que todos os usuários, incluindo aqueles com deficiências, possam utilizar nosso software de forma eficaz.
 
-### Recursos de Acessibilidade
+### Recursos de Acessibilidade:
 
 -Navegação por Teclado: Todos os elementos interativos podem ser acessados e utilizados via teclado.
 
@@ -51,9 +51,14 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 -Suporte a Leitores de Tela: Testamos nosso projeto com leitores de tela populares para garantir uma experiência de usuário inclusiva.
 
-### Exemplos de Código
+### Exemplos de Código:
 
 #### Navegação por Teclado
 
 ```html
 <button tabindex="0">Clique aqui</button>
+
+####Texto alternativo
+
+<img src="logo.png" alt="Logo da Empresa">
+
