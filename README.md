@@ -35,7 +35,7 @@
 
 <br>
 
-## Acessibilidade
+## Acessibilidade♿
 
 Este projeto segue as melhores práticas de acessibilidade para garantir que todos os usuários, incluindo aqueles com deficiências, possam utilizar nosso software de forma eficaz.
 
