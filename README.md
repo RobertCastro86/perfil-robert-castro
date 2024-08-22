@@ -57,7 +57,7 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 ```html
 
-## Estrutura semântica
+### Estrutura semântica
 
 <main>
   <header>
