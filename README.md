@@ -81,7 +81,7 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 
 
-### CSS
+```css
 
 
 📍Contraste de cores:
