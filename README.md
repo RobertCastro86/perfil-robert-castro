@@ -51,11 +51,12 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 -Suporte a Leitores de Tela: Testamos nosso projeto com leitores de tela populares para garantir uma experiência de usuário inclusiva.
 
+<br>
+
 ### Exemplos de Código:
 
 Navegação por Teclado
 
-```html
 <button tabindex="0">Clique aqui</button>
 
 Texto alternativo
