@@ -57,8 +57,6 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 ```html
 
-![Badge em Desenvolvimento](http://www.robertcastroimoveis.com.br)
-
 📍Estrutura semântica
 
 <main>
@@ -88,8 +86,5 @@ body {
   color: #333;
   background-color: #fff;
 }
-<p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
 
 
