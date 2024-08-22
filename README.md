@@ -53,13 +53,12 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 ### Exemplos de Código:
 
-#### Navegação por Teclado
+Navegação por Teclado
 
 ```html
 <button tabindex="0">Clique aqui</button>
 
-#### Texto alternativo
+Texto alternativo
 
-```html
 <img src="logo.png" alt="Logo da Empresa">
 
