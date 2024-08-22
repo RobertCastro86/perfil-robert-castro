@@ -1,4 +1,4 @@
-se## Bem-vindo(a) ao meu perfil: Robert Castro 👨‍💻®️©️
+Sejam Bem-vindo(a) ao meu perfil: Robert Castro 👨‍💻®️©️
 
 <div align="center">
   <a href="https://github.com/RobertCastro86">
