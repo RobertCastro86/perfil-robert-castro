@@ -65,3 +65,11 @@ Texto alternativo
 
 <img src="logo.png" alt="Logo da Empresa">
 
+Contraste de cores CSS:
+ 
+body {
+  color: #333;
+  background-color: #fff;
+}
+
+
