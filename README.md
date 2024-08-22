@@ -55,6 +55,8 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 
 ### Exemplos de Código:
 
+```html
+
 Navegação por Teclado
 
 <button tabindex="0">Clique aqui</button>
