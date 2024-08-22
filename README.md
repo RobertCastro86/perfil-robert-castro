@@ -21,6 +21,27 @@
 </div>
  
 <br>
+
+## Acessibilidade
+
+Este projeto segue as melhores práticas de acessibilidade para garantir que todos os usuários, incluindo aqueles com deficiências, possam utilizar nosso software de forma eficaz.
+
+### Recursos de Acessibilidade
+
+-Navegação por Teclado: Todos os elementos interativos podem ser acessados e utilizados via teclado.
+-Texto Alternativo: Todas as imagens possuem descrições alternativas (`alt text`) para leitores de tela.
+-Contraste de Cores: As cores utilizadas no projeto foram escolhidas para garantir um contraste adequado.
+-Estrutura Semântica: Utilizamos tags HTML semânticas para melhorar a navegação e a compreensão do conteúdo.
+-Suporte a Leitores de Tela: Testamos nosso projeto com leitores de tela populares para garantir uma experiência de usuário inclusiva.
+
+### Exemplos de Código
+
+#### Navegação por Teclado
+
+```html
+<button tabindex="0">Clique aqui</button>
+
+<br>
  
 ### Minhas redes sociais:
  
