@@ -80,7 +80,7 @@ Texto alternativo
 
 ```CSS
 
-Contraste de cores CSS:
+/*Contraste de cores CSS:*/
  
 body {
   color: #333;
