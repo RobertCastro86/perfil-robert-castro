@@ -80,9 +80,6 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 <img src="logo.png" alt="Logo da Empresa">
 
 
-
-CSS
-
 📍Contraste de cores:
  
 body {
