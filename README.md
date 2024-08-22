@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil: Robert Castro 👨‍💻®️©️
+se## Bem-vindo(a) ao meu perfil: Robert Castro 👨‍💻®️©️
 
 <div align="center">
   <a href="https://github.com/RobertCastro86">
@@ -58,7 +58,8 @@ Este projeto segue as melhores práticas de acessibilidade para garantir que tod
 ```html
 <button tabindex="0">Clique aqui</button>
 
-####Texto alternativo
+#### Texto alternativo
 
+```html
 <img src="logo.png" alt="Logo da Empresa">
 
