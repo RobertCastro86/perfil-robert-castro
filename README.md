@@ -62,11 +62,10 @@
 
 <h2 align="center">Autores</h2>
 
- [<img loading="lazy" src="https://github.com/user-attachments/assets/35f4b1f8-7dfd-41d8-ac85-cc386f882aca" width=115><br><sub>Robert Vincius Castro e Silva</sub>](https://github.com/RobertCastro86)
-
+ [<img loading="lazy" src="https://github.com/user-attachments/assets/35f4b1f8-7dfd-41d8-ac85-cc386f882aca" width=115><br><sub>Robert Vincius Castro e Silva</sub>](https://github.com/RobertCastro86) 
 
 <br>
+
 <p align="center">
-<img loading="lazy" src="https://github.com/user-attachments/assets/0900b25e-9238-481a-abb8-811cbf8a39a5)
-.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
