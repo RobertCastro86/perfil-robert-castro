@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="center">Tecnologias que estou apredendo:</h2>
+<h2 align="center">Tecnologias que estou aprendendo:</h2>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -60,9 +60,17 @@
 
 <p align="center">-Suporte a Leitores de Tela: Testamos nosso projeto com leitores de tela populares para garantir uma experiência de usuário inclusiva.<p/>
 
+
 <h2 align="center">Autores</h2>
 
- [<img loading="lazy" src="https://github.com/user-attachments/assets/35f4b1f8-7dfd-41d8-ac85-cc386f882aca" width=115><br><sub>Robert Vincius Castro e Silva</sub>](https://github.com/RobertCastro86) 
+<p align="center">
+  <a href="https://github.com/RobertCastro86">
+    <img loading="lazy" src="https://github.com/user-attachments/assets/35f4b1f8-7dfd-41d8-ac85-cc386f882aca" width="115"><br>
+    <sub>Robert Vincius Castro e Silva</sub>
+  </a>
+</p>
+
+
 
 <br>
 
