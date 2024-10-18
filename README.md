@@ -25,18 +25,17 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Astra UML](https://img.shields.io/badge/AstraUML-%23000000.svg?style=for-the-badge&logo=astrauml&logoColor=white)
 </div>
 <br>
-<div align="center">
+<div align="left">
     <a href="https://visitcount.itsvg.in/api?id=Robertcastro86 &icon=0&color=0 https://visitcount.itsvg.in">
     </a>
 </div>
 <br>
 
-<h2 align="center">GitHub Stats📊</h2>
+<h2 align="left">GitHub Stats📊</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RobertCastro86">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertCastro86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertCastro&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -45,9 +44,9 @@
 
 <br>
 
-<h2 align="center">My Skills🚀</h2>
+<h2 align="left">My Skills🚀</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;"><br>
+<div align="left" style="display: flex; justify-content: center; flex-wrap: wrap;"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -59,9 +58,9 @@
 
 <br>
 
-<h2 align="center">Minhas redes sociais:</h2>
+<h2 align="left">Minhas redes sociais:</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/channel/UC9mGYjljmKK98UAIOu3K6tQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/robertviniciuscastro?igsh=MTQ2bjZ1cWh0Zzk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/invite/ueH9d6Mu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -71,23 +70,10 @@
 
 <br>
 
-<h2 align="center">Acessibilidade♿</h2>
+<h2 align="left">Acessibilidade♿</h2>
 
-<p align="center">Este projeto segue as melhores práticas de acessibilidade para garantir que todos os usuários, incluindo aqueles com deficiências, possam utilizar nosso software de forma eficaz.<p/>
-
-<h2 align="center">Recursos de Acessibilidade🧏‍♀️</h2>
-
-<p align="center">-Navegação por Teclado: Todos os elementos interativos podem ser acessados e utilizados via teclado.<p/>
-
-<p align="center">-Texto Alternativo: Todas as imagens possuem descrições alternativas (`alt text`) para leitores de tela.<p/>
-
-<p align="center">-Contraste de Cores: As cores utilizadas no projeto foram escolhidas para garantir um contraste adequado.<p/>
-
-<p align="center">-Estrutura Semântica: Utilizamos tags HTML semânticas para melhorar a navegação e a compreensão do conteúdo.<p/>
-
-<p align="center">-Suporte a Leitores de Tela: Testamos nosso projeto com leitores de tela populares para garantir uma experiência de usuário inclusiva.<p/>
-
-
+<p align="left">Este projeto segue as melhores práticas de acessibilidade para garantir que todos os usuários, incluindo aqueles com deficiências, possam utilizar nosso software de forma eficaz.<p/>
+  
 <h2 align="center">Autores</h2>
 
 <p align="center">
