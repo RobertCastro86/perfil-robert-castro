@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/RobertCastro86">
-    <img height="180em" src="https://github.com/user-attachments/assets/cc5b09c4-2c86-4a98-b641-6b11c72626eb"/>
+    <img height="180em" src="Olá, me chamo Robert. Muito prazer..png"/>
 </div>
 
 <div align="center">
