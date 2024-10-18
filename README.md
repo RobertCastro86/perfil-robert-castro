@@ -9,9 +9,9 @@
     <p align="center" justify-contet: center>Como estudante de Análise e Desenvolvimento de Sistemas e habilidades em HTML, CSS e JavaScript, Tenho um forte interesse em novas tecnologias e tendências emergentes, como Inteligência Artificial, Computação em Nuvem e Desenvolvimento de Aplicações Web. Destaco-me nas áreas de vendas, tecnologia e marketing, com experiência em Marketing Digital e vendas no setor imobiliário desde 2018.</p>
 </div>
 <br>
-<h2 align="center">Tech Stack💻</h2>
+<h2 align="left">Tech Stack💻</h2>
 
-<div align="center">
+<div align="left">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
